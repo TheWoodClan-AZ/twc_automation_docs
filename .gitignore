@@ -1,0 +1,5 @@
+# VSCode Workspace Configuration
+!*.code-workspace
+
+# Python virtual environment
+venv/
